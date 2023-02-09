@@ -1,3 +1,13 @@
 body{
     background-color: darkslategrey;
 }
+#doboz1{
+    background-color: mistyrose;
+    width: 20px;
+    height: 120px;
+    animation:bito1 10s;
+}
+@keyframes bito1{
+    from {height: 0;}
+    to {height: 150px;}
+}
