@@ -2,10 +2,10 @@ body{
     background-color: darkslategrey;
 }
 #doboz1{
-    background-color: mistyrose;
+    background-color: darkslategrey;
     width: 20px;
-    height: 120px;
-    animation:bito1 10s;
+    height: 150px;
+    
 }
 @keyframes bito1{
     from {height: 0;}
